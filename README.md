@@ -18,5 +18,5 @@ Bu proje Flask ve Gemini 1.5 Flash LLM modeli ile geliştirilmiştir.
 
 ## 🛠️ Kurulum
 1. `pip install -r requirements.txt`
-2. `.env` dosyasına API anahtarını koy
+2. .env dosyası oluştur ve API anahtarını ekle: GEMINI_API_KEY=your_api_key_here
 3. `python app.py` ile başlat
